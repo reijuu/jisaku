@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "jisakumod:block/jisaku_block"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "itemGroup.jisaku_main" : "自作MOD",
+  "itemGroup.jisaku_sub" : "自作サブ",
+
+  "item.jisakumod.jisaku_ingod" : "桜色金の塊",
+  "item.jisakumod.jisaku_pickaxe" : "桜色金のツルハシ",
+  "item.jisakumod.sniper_rifle" : "スナイパーライフル",
+  "item.jisakumod.jisaku_ammo": "弾丸",
+
+  "item.jisakumod.raw_orihalcon": "オリハルコンの原石",
+  "item.jisakumod.orihalcon_ingot" : "オリハルコンの鉱石",
+  "block.jisakumod.orihalcon_block" : "オリハルコンブロック",
+  "block.jisakumod.jisaku_block" : "桜色金のブロック"
+}
