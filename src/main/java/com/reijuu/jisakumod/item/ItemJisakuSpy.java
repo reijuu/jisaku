@@ -20,7 +20,6 @@ public class ItemJisakuSpy extends Item {
         super(new Properties());
     }
 
-
     public int getUseDuration(ItemStack p_151222_) {
             return 1200;
         }

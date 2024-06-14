@@ -13,6 +13,7 @@ public class JisakuMain {
             JisakuModItems.JISAKU_INGOD.get(),
             JisakuModItems.JISAKU_PICKAXE.get(),
             JisakuModItems.SNIPER_RIFLE.get(),
+            JisakuModItems.JISAKU_ARROW.get(),
             Items.CHERRY_PLANKS,
             JisakuModItems.JISAKU_SPY.get(),
             JisakuModItems.JISAKU_AMMO.get(),
