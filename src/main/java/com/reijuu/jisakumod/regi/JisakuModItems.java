@@ -20,7 +20,8 @@ public class JisakuModItems {
     public static final RegistryObject<Item> RAW_ORIHALCON = ITEMS.register("raw_orihalcon", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> ORIHALCON_INGOT = ITEMS.register("orihalcon_ingot", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> JISAKU_INGOD = ITEMS.register("jisaku_ingod", ItemJisakInGod::new);
-    public static final RegistryObject<Item> JISAKU_ARROW = ITEMS.register("jisaku_arrow", () -> new JisakuArrow());
+    public static final RegistryObject<Item> JISAKU_BOW = ITEMS.register("jisaku_bow", () -> new JisakuBow());
+    public static final RegistryObject<Item> CUSTOM_ARROW = ITEMS.register("custom_arrow", CsutomArrow::new);
     //Tool系
     public static final RegistryObject<PickaxeItem> JISAKU_PICKAXE = ITEMS.register("jisaku_pickaxe", ToolJisakuPickaxe::new);
     public static final RegistryObject<CrossbowItem> SNIPER_RIFLE = ITEMS.register("sniper_rifle", SniperRifle::new);

@@ -13,6 +13,6 @@ public class JisakuModItemModelProvider extends ItemModelProvider {
 
     @Override
     protected void registerModels() {
-        basicItem(JisakuModItems.JISAKU_ARROW.get());
+        basicItem(JisakuModItems.JISAKU_BOW.get());
     }
 }

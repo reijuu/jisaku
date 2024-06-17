@@ -64,7 +64,7 @@ public class SniperRifle extends CrossbowItem implements SniperRifleItem {
         return 72000;  // 使用時間を設定
     }
 
-    // SniperRifleItemクラス内の矢の設定
+    // クラス内の矢の設定
     @Override
     public @NotNull Predicate<ItemStack> getAllSupportedProjectiles() {
         return (stack) -> {

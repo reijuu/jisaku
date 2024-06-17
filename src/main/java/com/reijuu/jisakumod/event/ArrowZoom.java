@@ -15,7 +15,7 @@ public class ArrowZoom {
     public static void fovModified(ComputeFovModifierEvent event) {
         Player player = event.getPlayer();
         ItemStack item = player.getMainHandItem();
-        if (item.is(JisakuModItems.JISAKU_ARROW.get())) {
+        if (item.is(JisakuModItems.JISAKU_BOW.get())) {
             event.setNewFovModifier(0.25F);
         }
     }
